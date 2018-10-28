@@ -1,5 +1,7 @@
 # 开放会务指南
 
+[![Join the chat at https://gitter.im/kaiyuanshe/open-conference-guide](https://badges.gitter.im/kaiyuanshe/open-conference-guide.svg)](https://gitter.im/kaiyuanshe/open-conference-guide?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## 关于本文
 
 本文是一次经验分享的尝试，我们试图用开源的方式，来分享我们在主办技术大会方面的经验。也非常欢迎所有对此有经验，有教训，有心得的朋友，一起来参与这个文档的编写。
